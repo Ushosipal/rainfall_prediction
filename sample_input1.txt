@@ -1,0 +1,1 @@
+pressure, dewpoint, humidity, cloud, sunshine, winddirection, windspeed= 1015.9, 19.9, 95, 81, 0.0, 40.0, 13.7
