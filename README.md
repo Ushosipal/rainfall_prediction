@@ -65,7 +65,8 @@ To build a classification model that predicts **Rain** or **No Rain** using hist
 ## Clone this repository:
 
 git clone https://github.com/Ushosipal/rainfall_prediction.git
-- cd rainfall-prediction-system
+
+cd rainfall-prediction-system
 
 
 
